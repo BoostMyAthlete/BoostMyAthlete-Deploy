@@ -1,7 +1,7 @@
 import "./App.css";
-import ContentPage from "./pages/ContactPage/ContactPage";
+import ContentPage from "./pages/ContentPage/ContentPage";
 import NavMenu from "./components/NavMenu/NavMenu";
-import Footer from "./components/Footer/footer";
+import Footer from "./components/Footer/Footer";
 
 
 
